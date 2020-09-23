@@ -5,7 +5,7 @@ type: book
 date: "2020-09-22T00:00:00+01:00"
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 1
 ---
 
 # Reagents
@@ -27,5 +27,5 @@ To prepare the TAE buffer 50X:
 - dissolve **242 g** of **Tris** in 700 ml of deionized water
 - add  **57.1 ml** of **acetic acid**
 - add **100 ml** of **0.5M EDTA solution**
-- adjust the final volume to 1 l.
+- adjust the final volume to 1 L with deionized water
 - store at room temperature
