@@ -2,7 +2,7 @@
 # Title, summary, and page position.
 linktitle: Electrophoresis
 summary: 
-weight: 1
+weight: 6
 icon: book
 icon_pack: fas
 
