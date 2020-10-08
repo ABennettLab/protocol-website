@@ -10,7 +10,7 @@ weight: 1
 
 
 
-| Name                             | Producer   | Cat. no. |
-| -------------------------------- | ---------- | -------- |
-| Lysis buffer                     | See recipe |          |
-| Stainless steel beads (2.4 mm ⌀) |            |          |
+| Name                             | Producer   | Cat. no.  |
+| -------------------------------- | ---------- | --------  |
+| Lysis buffer                     | See recipe |           |
+| Stainless steel beads (2.4 mm ⌀) | VWR        | 10032-370 |
