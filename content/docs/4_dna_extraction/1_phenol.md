@@ -24,8 +24,8 @@ weight: 1
 
 # Protocol
 
-{{% callout warning %}}
+{{% alert warning %}}
 Here's some important information...
-{{% /callout %}}
+{{% /alert %}}
 
 1. Add 100µl of your lysed sample to an empty microcentrifuge tube (1.5 or 2ml)
