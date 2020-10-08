@@ -25,11 +25,7 @@ weight: 1
 # Protocol
 
 {{% callout warning %}}
-**BE CAREFUL!!!**
-With this protocol you are going to use very deangerous chemicals, so please consult the lab technician before starting. Here some instructions to keep in minf:
-1. Wear lab coat and gloves **all the time**. Change gloves frequently if necessary.
-2. Always work under the fume hood, try to keep the sash as closed as possible.
-3. Discard tubes and tips accordingly with the University rules.
+Here's some important information...
 {{% /callout %}}
 
 1. Add 100µl of your lysed sample to an empty microcentrifuge tube (1.5 or 2ml)
