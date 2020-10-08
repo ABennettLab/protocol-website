@@ -12,10 +12,9 @@ weight: 3
 
 ## Lysis buffer (100ml)
 
-| Component                    | Amount               |
-| ---------------------------- | -------------------- |
-| Trizma base                  | 1.2g                 |
-| Sodium chloride              | 0.58g                |
-| Sodium dodecyl sulfate (SDS) | 2g                   |
-| Deionized water              | to a volume of 100ml |
-
+| Component                    | Amount               | Producer | Cat. number    |
+| ---------------------------- | -------------------- | -------- | -------------- |
+| Trizma base                  | 1.2g                 | Sigma    | 648310-500GM-M |
+| Sodium chloride              | 0.58g                | Sigma    | 746398-500G    |
+| Sodium dodecyl sulfate (SDS) | 2g                   | Sigma    | 436143-25G     |
+| Deionized water              | to a volume of 100ml |          |                |
