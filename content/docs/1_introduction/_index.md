@@ -42,5 +42,3 @@ If you want to know more about each technique, you will find some material to st
 {{< youtube kv09Mhegzuw >}}
 
 {{< youtube HNOMtAlTBMk >}}
-
-
