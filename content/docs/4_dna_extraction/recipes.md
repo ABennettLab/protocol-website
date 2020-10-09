@@ -10,28 +10,28 @@ weight: 3
 
 # Sodium acetate .03M
 
-1. Weight 1.23g of sodium acetate trihydrate (Sigma, cat.no. S8625-250G).
+1. Weight **1.23g** of **sodium acetate trihydrate** (Sigma, cat.no. S8625-250G).
 2. Transfer the sodium acetate to a 50ml falcon tube.
-3. Fill the falcon tube with 50ml of deionized water.
+3. Fill the falcon tube with **50ml of deionized water**.
 4. Store at room temperature.
 
 # 1M Tris
-1. Weight 6.5g of Tris base (Sigma, cat.no. 648310-500GM-M) 
+1. Weight **6.5g** of **Tris base** (Sigma, cat.no. 648310-500GM-M) 
 2. Transfer the Tris base to a 50ml falcon tube.
-3. Fill the falcon tube with 50ml of deionized water.
+3. Fill the falcon tube with **50ml of deionized water**.
 4. Store at room temperature.
 
 # 0.5M EDTA
-1. 1. Weight 9.3g of disodium EDTA (Sigma, cat.no. 324503-100GM) 
+1. Weight **9.3g** of **disodium EDTA** (Sigma, cat.no. 324503-100GM) 
 2. Transfer the EDTA to a 50ml falcon tube.
-3. Fill the falcon tube with 40ml of deionized water.
-4. Adjust the pH to 8 with about 1g of NaOH.
-5. Fill the falcon tube to 50ml with deionized water.
+3. Fill the falcon tube with **40ml of deionized water**.
+4. Adjust the pH to 8 with **about 1g of NaOH**.
+5. Fill the falcon tube **to 50ml** with deionized water.
 6. Store at room temperature.
 
 # TE Buffer
-1. In a 50ml falcon tube add 500µl of 1M Tris and 100µl of 0.5M ETA
-2. Fill the falcon tube to 50ml with deionized water.
+1. In a 50ml falcon tube add **500µl of 1M Tris** and **100µl of 0.5M ETA**
+2. Fill the falcon tube **to 50ml** with deionized water.
 3. Store at room temperature.
 
 # SPRI beads solution
@@ -46,7 +46,7 @@ weight: 3
 | 0.5M EDTA                                 | see recipe  above   |              |
 | TE buffer                                 | see recipe  above   |              |
 
-1. Prepare the PEG solution. In a 50 ml falcon tube mix 9g of PEG 8000, 2.92g of NaCl, 500µl of 1M Tris and 100µl of 0.5M ETA. Fill up the tube to 49ml with ultrapure water (you can do it by eye, it is not difficult). Mix everythin well until all particles are dissolved. Add 27.5µl of Tween 20.
+1. Prepare the PEG solution. In a 50 ml falcon tube mix **9g** of **PEG 8000**, **2.92g** of **NaCl**, **500µl** of **1M Tris** and **100µl** of **0.5M EDTA**. Fill up the tube to **49ml with ultrapure water** (you can do it by eye, it is not difficult). Mix everythin well until all particles are dissolved. Add **27.5µl** of **Tween 20**.
 2. Mix Sera-Mag SpeedBeads very well until no deposit is visible at the bottom of the bottle.
 3. Transfer 1ml of Sera-Mag SpeedBeads to a 1.5 or 2ml tube.
 4. Put on magnet for 1 minute.
