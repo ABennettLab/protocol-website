@@ -46,15 +46,15 @@ weight: 3
 | 0.5M EDTA                                 | see recipe  above   |              |
 | TE buffer                                 | see recipe  above   |              |
 
-0. Prepare the PEG solution. In a 50 ml falcon tube mix 9g of PEG 8000, 2.92g of NaCl, 500µl of 1M Tris and 100µl of 0.5M ETA. Fill up the tube to 49ml with ultrapure water (you can do it by eye, it is not difficult). Mix everythin well until all particles are dissolved. Add 27.5µl of Tween 20.
-1. Mix Sera-Mag SpeedBeads very well until no deposit is visible at the bottom of the bottle.
-2. Transfer 1ml of Sera-Mag SpeedBeads to a 1.5 or 2ml tube.
-3. Put on magnet for 1 minute.
-4. Pipette all the liquid without touching the beads, and discard it.
-5. Add 1 ml of the TE buffer, remove tube from the magnet, vortex and return it to the magnet for 1 min.
-6. Pipette all the liquid without touching the beads, and discard it.
-7. Add 1 ml of the TE buffer, remove tube from the magnet, vortex and return it to the magnet for 1 min.
-8. Pipette all the liquid without touching the beads, and discard it.
-9. Add 1 ml of the TE buffer, remove tube from the magnet and vortex.
-10. Pipette the Sera-Mag SpeedBeads to the PEG solution.
-11. Store at 4°C.
+1. Prepare the PEG solution. In a 50 ml falcon tube mix 9g of PEG 8000, 2.92g of NaCl, 500µl of 1M Tris and 100µl of 0.5M ETA. Fill up the tube to 49ml with ultrapure water (you can do it by eye, it is not difficult). Mix everythin well until all particles are dissolved. Add 27.5µl of Tween 20.
+2. Mix Sera-Mag SpeedBeads very well until no deposit is visible at the bottom of the bottle.
+3. Transfer 1ml of Sera-Mag SpeedBeads to a 1.5 or 2ml tube.
+4. Put on magnet for 1 minute.
+5. Pipette all the liquid without touching the beads, and discard it.
+6. Add 1 ml of the TE buffer, remove tube from the magnet, vortex and return it to the magnet for 1 min.
+7. Pipette all the liquid without touching the beads, and discard it.
+8. Add 1 ml of the TE buffer, remove tube from the magnet, vortex and return it to the magnet for 1 min.
+9. Pipette all the liquid without touching the beads, and discard it.
+10. Add 1 ml of the TE buffer, remove tube from the magnet and vortex.
+11. Pipette the Sera-Mag SpeedBeads to the PEG solution.
+12. Store at 4°C.
