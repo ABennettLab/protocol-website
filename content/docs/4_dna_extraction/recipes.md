@@ -21,6 +21,19 @@ weight: 3
 3. Fill the falcon tube with 50ml of deionized water.
 4. Store at room temperature.
 
+# 0.5M EDTA
+1. 1. Weight 9.3g of disodium EDTA (Sigma, cat.no. 324503-100GM) 
+2. Transfer the EDTA to a 50ml falcon tube.
+3. Fill the falcon tube with 40ml of deionized water.
+4. Adjust the pH to 8 with about 1g of NaOH.
+5. Fill the falcon tube to 50ml with deionized water.
+6. Store at room temperature.
+
+# TE Buffer
+1. In a 50ml falcon tube add 500µl of 1M Tris and 100µl of 0.5M ETA
+2. Fill the falcon tube to 50ml with deionized water.
+3. Store at room temperature.
+
 # SPRI beads solution
 
 | Reagents                                  | Producer            | Cat. no.     |
@@ -28,25 +41,20 @@ weight: 3
 | Sera-Mag SpeedBeads                       | Fisher              | 09-981-123   |
 | PEG 8000                                  | Sigma               | 89510-250G-F |
 | Sodium chloride                           | Sigma               | 746398-500G  |
+| Tween20                                   | Sigma               | P9416-100ML  |
 | 1M Tris                                   | see recipe  above   |              |
 | 0.5M EDTA                                 | see recipe  above   |              |
 | TE buffer                                 | see recipe  above   |              |
 
-
-
-
-
-| Consumables                               | Producer            | Cat. no.     |
-| ----------------------------------------- | ------------------- | ------------ |
-| Pipet Tips, 1000ul                        | VWR                 | 10017-224    |
-| Pipet Tips, 200ul                         | VWR                 | 10017-222    |
-| Pipet Tips, 10ul                          | VWR                 | 10017-218    |
-| PCR tubes                                 | VWR                 | 53509-304    |
-| PCR plates                                | VWR                 | 89136-698    |
-
-# Protocol
-{{% alert note%}}
-This protocol can be adapted for different volumes and samples numbers. </br>
-For higer volumes simply scale up all the reagents volumes reported below, and use 1.5 or 2ml tubes. </br>
-For a different numbers of samples, you can use single PCR tubes, 8-tubes strips, plate sections or entire plates. They will all fit into the magnet.
-{{% /alert %}}
+0. Prepare the PEG solution. In a 50 ml falcon tube mix 9g of PEG 8000, 2.92g of NaCl, 500µl of 1M Tris and 100µl of 0.5M ETA. Fill up the tube to 49ml with ultrapure water (you can do it by eye, it is not difficult). Mix everythin well until all particles are dissolved. Add 27.5µl of Tween 20.
+1. Mix Sera-Mag SpeedBeads very well until no deposit is visible at the bottom of the bottle.
+2. Transfer 1ml of Sera-Mag SpeedBeads to a 1.5 or 2ml tube.
+3. Put on magnet for 1 minute.
+4. Pipette all the liquid without touching the beads, and discard it.
+5. Add 1 ml of the TE buffer, remove tube from the magnet, vortex and return it to the magnet for 1 min.
+6. Pipette all the liquid without touching the beads, and discard it.
+7. Add 1 ml of the TE buffer, remove tube from the magnet, vortex and return it to the magnet for 1 min.
+8. Pipette all the liquid without touching the beads, and discard it.
+9. Add 1 ml of the TE buffer, remove tube from the magnet and vortex.
+10. Pipette the Sera-Mag SpeedBeads to the PEG solution.
+11. Store at 4°C.
