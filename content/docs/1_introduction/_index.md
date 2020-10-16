@@ -13,7 +13,9 @@ type: book  # Do not modify.
 ---
 
 # Read!
-## Before starting your metabarcoding project, here some literature you might want to read some material:
+
+
+**Before starting your metabarcoding project, here some literature you might want to read some material:**
 
 * Berg, G., Rybakova, D., Fischer, D. et al. Microbiome definition re-visited: old concepts and new challenges. Microbiome 8, 103 (2020). https://doi.org/10.1186/s40168-020-00875-0
 
@@ -21,7 +23,7 @@ type: book  # Do not modify.
 
 * Earth Microbiome project. https://press.igsb.anl.gov/earthmicrobiome/
 
-## and watch some videos:
+**and watch some videos:**
 
 {{< youtube kv09Mhegzuw >}}
 
@@ -29,6 +31,9 @@ type: book  # Do not modify.
 
 {{< youtube HNOMtAlTBMk >}}
 
+<br/>
+
+<br/>
 
 # General workflow
 
