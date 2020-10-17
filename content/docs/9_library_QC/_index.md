@@ -12,3 +12,10 @@ date: ""
 type: book  # Do not modify.
 ---
 
+### Agilent Bioanalyzer
+
+
+
+### Qubit
+
+You will need to provide a Qubit reading of the final pool to the sequencing facility. See Library pooling section above for instructions on how to do it.
