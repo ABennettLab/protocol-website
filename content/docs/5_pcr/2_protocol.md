@@ -22,7 +22,7 @@ Tips
 
 <br/>
 
-The first step to perform a PCR is to make the **master mix**. This is a mix of all the reagents required for  PCR with the exclusion of your samples. In this tutorial we are using a ready mix reagent, which means that MgCl<sub>2<sub/>  and dNTPs are already mixed into the solution. If you are not using a ready mix, consult the reagent's protocol for instructions.
+The first step to perform a PCR is to make the **master mix**. This is a mix of all the reagents required for  PCR with the exclusion of your samples. In this tutorial we are using a ready mix reagent, which means that MgCl2 and dNTPs are already mixed into the solution. If you are not using a ready mix, consult the reagent's protocol for instructions.
 
 When assembling the master mix, it is important to keep constant the ratio between the reagents. So, you can scale up or scale down the total volume per sample according to your needs. For a standard metabarcoding project, 20µl per sample are enough to work with.
 

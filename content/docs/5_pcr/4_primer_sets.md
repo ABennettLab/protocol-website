@@ -40,5 +40,5 @@ If you need more primer pairs, you can expand the list above with the barcodes {
 
 **REV**. 5'-AATGATACGGCGACCACCGAGATCTACAC [**<u>i5</u>**]TCGTCGGCAGCGTC -3'
 
-You can build your custom i7 and i5. Remember that they can be 6-8bp long and **must be unique**!!! Also there are some technical requirements to keep in mind, so make sure to read the literature thorougly.
+You can build your custom i7 and i5. Remember that they can be 6-8bp long and **must be unique**. Also there are some technical requirements to keep in mind, so make sure to read the literature thorougly.
 
