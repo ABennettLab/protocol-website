@@ -31,7 +31,7 @@ Before measuring samples, samples need to be prepared according to the following
 | Qubit buffer  |          199           |     n + 2      |       |
 | Qubit reagent |           1            |     n + 2      |       |
 
-2. **Aliquot the working solution in each tube**. For each sample tube aliquot 199µl, for the two standard tubes aliquot 190µl.
+2. **Aliquot the working solution in each tube**. For each sample tube aliquot 199µl, for the two standard tubes aliquot 190µl. Make sure to use the Qubit Assay tubes (see Materials below)
 3. **Add standards**. In one of the standard tubes add Standard #1 and add Standard #2 to the other one. Mark tubes accordingly.
 4. **Add samples**. In each of the other tubes, add 1µl of each sample. Mark tubes accordingly.
 5. **Vortex** each tube for 4-5 seconds and quickly **centrifuge** it.
@@ -40,3 +40,13 @@ Before measuring samples, samples need to be prepared according to the following
 <br/>
 
 {{< youtube pfVbbdu9-nc >}}
+
+<br/>
+
+### Materials
+
+| Reagent                  | Producer     | Cat. no. |
+| ------------------------ | ------------ | -------- |
+| Qubit dsDNA HS Assay Kit | ThermoFisher | Q32854   |
+| Qubit  Assay Tubes       | ThermoFisher | Q32856   |
+
