@@ -1,6 +1,6 @@
 ---
-title: Protocol
-linktitle: Protocol
+title: Protocol 1st PCR
+linktitle: Protocol 1st PCR
 type: book
 date: ""
 
@@ -57,5 +57,15 @@ After all your samples are correctly dispensed, close your reaction tubes tightl
 
 When your tubes (or plate) are tightly sealed, vortex them briefly and quickly spin them with the centrifuge.
 
-**Your samples are now ready for the thermocycler!**
+Samples are now ready for the thermocycler. Follow the video instructions below to learn how to set and run a thermocycler program. For this application you should run the following PCR program:
+
+* 95°C x 3 min
+* 35 cycles of:
+  * 98°C for 30 seconds
+  * 50°C for 30 seconds
+  * 72°C for 30 seconds
+* 72°C for 5 minutes
+* Hold at 4°C
+
+
 
