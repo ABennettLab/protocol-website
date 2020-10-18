@@ -32,7 +32,8 @@ Before extracting the DNA, we have to homogenize our sample in a lysis buffer. T
 3. Add 500µl of Lysis buffer.
 4. Load samples into the Qiagen TissueLyzer homogenizer. Remember to balance the two arms of the homogenizer. Watch the video below before running the machine.
 5. Mill at max frequency (30) for 5 minutes.
-6. Centrifuge at max speed for 30 seconds.
+6. Invert the plates (see video below) and mill again at max frequency (30) for 5 minutes.
+7. Centrifuge at max speed for 30 seconds.
 
 <br/>
 

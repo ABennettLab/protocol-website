@@ -18,15 +18,16 @@ weight: 1
 
 <br/>
 
-| Consumables                                    | Producer | Cat. no.  |
-| ---------------------------------------------- | -------- | --------- |
-| Disposable Microcentrifuge Tubes. 2ml. 500pc   | VWR      | 20170-170 |
-| 96-Well Half-Skirted PCR Plate                 | VWR      | 82006-664 |
-| PCR  aluminium foil (100pc)                    | VWR      | 60941-076 |
-| Pipet Tips, Standard Line 1000ul               | VWR      | 10017-224 |
-| Pipet Tips, Standard Line 200ul                | VWR      | 10017-222 |
-| Pipet Tips, Standard Line 10ul                 | VWR      | 10017-218 |
-| Low-Retention Aerosol Filter Pipet Tips 1000ul | VWR      | 89174-530 |
-| Low-Retention Aerosol Filter Pipet Tips 100ul  | VWR      | 10126-388 |
-| Low-Retention Aerosol Filter Pipet Tips 10ul   | VWR      | 89174-522 |
+If you want to work with 96-well plates:
+
+| Consumables                    | Producer | Cat. no.  |
+| ------------------------------ | -------- | --------- |
+| 96-Well Half-Skirted PCR Plate | VWR      | 82006-664 |
+| PCR  aluminium foil (100pc)    | VWR      | 60941-076 |
+
+If you want to work with 8-tubes strips
+
+| Consumables             | Producer | Cat. no.  |
+| ----------------------- | -------- | --------- |
+| PCR  8-Well Tube Strips | VWR      | 53509-304 |
 
