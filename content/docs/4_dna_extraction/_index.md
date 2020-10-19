@@ -14,7 +14,7 @@ type: book  # Do not modify.
 
 Before doing your first DNA extraction, please take a moment to read this [brief introduction to DNA extraction](https://en.wikipedia.org/wiki/DNA_extraction) and watch the video below:
 
-{{< youtube ggZwQVCvVaw >}}
+{{< youtube -5MFxTePltk >}}
 
 <br/>
 
