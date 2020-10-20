@@ -1,6 +1,6 @@
 ---
-title: Protocol 1. Phenol:Chloroform
-linktitle: Protocol 1. Phenol:Chloroform
+title: Protocol
+linktitle: Protocol
 type: book
 date: ""
 

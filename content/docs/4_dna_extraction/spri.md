@@ -1,12 +1,14 @@
 ---
-title: Protocol 2. SPRI
-linktitle: Protocol 2. SPRI
+title: Purification (optional)
+linktitle: Purification (optional)
 type: book
 date: ""
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 3
 ---
+
+If you Nanodrop reads are not excellent, you can try to further purify your samples with the protocol below.
 
 # Materials
 
@@ -14,14 +16,6 @@ weight: 2
 | ----------------------------------------- | ------------------- | ------------ |
 | Ethanol (70%)                             |                     |              |
 | SPRI beads solution                       | see recipe          |              |
-
-| Consumables                               | Producer            | Cat. no.     |
-| ----------------------------------------- | ------------------- | ------------ |
-| Pipet Tips, 1000ul                        | VWR                 | 10017-224    |
-| Pipet Tips, 200ul                         | VWR                 | 10017-222    |
-| Pipet Tips, 10ul                          | VWR                 | 10017-218    |
-| PCR tubes                                 | VWR                 | 53509-304    |
-| PCR plates                                | VWR                 | 89136-698    |
 
 # Protocol
 {{% alert note%}}

@@ -5,7 +5,7 @@ type: book
 date: ""
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 4
+weight: 2
 ---
 
 Watch this first video to learn about the principles and the importance of assessing quantity and purity of nucleic acids with a Nanodrop instrument:

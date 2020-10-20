@@ -5,10 +5,10 @@ type: book
 date: ""
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 3
+weight: 4
 ---
 
-# Sodium acetate .03M
+# Sodium acetate 0.3M
 
 1. Weight **1.23g** of **sodium acetate trihydrate** (Sigma, cat.no. S8625-250G).
 2. Transfer the sodium acetate to a 50ml falcon tube.
