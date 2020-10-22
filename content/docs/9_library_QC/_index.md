@@ -32,6 +32,8 @@ Before starting you need to prepare the Gel-Dye mix. This mix is sufficiet for 5
 
 ##### Loading the HS chip
 
+Take the reagent box from the fridge (4°C) and leave it at room temperature for about 30 minutes.
+
 For accurate instruction on how to load the chip, please consult the {{% staticref "files/ABA_HS_quickguide.pdf" "newtab" %}}last page of the quick guide{{% /staticref %}}, pp- 14-16 of the {{% staticref "files/ABA_HS_full.pdf" "newtab" %}}full guide{{% /staticref %}}, and watch the video below.
 
 ##### Running the machine

@@ -24,7 +24,7 @@ Qubit is a fluorometer, and provides a more accurate quantification of amplicons
 
 Before measuring samples, samples need to be prepared according to the following protocol:
 
-1. **Prepare the working solution**. In a 50ml tube add 199µl of Qubit buffer and 1µl of Qubit reagent for each sample. Remember to add two samples to the total count, which we be used as standard.
+1. **Prepare the working solution**. In a 50ml tube add 199µl of Qubit buffer and 1µl of Qubit reagent for each sample. Remember to add two samples to the total count, which will be used as standard.
 
 | Reagent       | Amount per sample (µl) | Nr. of samples | Total |
 | ------------- | :--------------------: | :------------: | :---: |

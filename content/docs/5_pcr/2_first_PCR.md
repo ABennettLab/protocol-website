@@ -26,23 +26,23 @@ The first step to perform a PCR is to make the **master mix**. This is a mix of 
 
 When assembling the master mix, it is important to keep constant the ratio between the reagents. So, you can scale up or scale down the total volume per sample according to your needs. For a standard metabarcoding project, 20µl per sample are enough to work with.
 
-It is also important to increase the volume of each reagent by ~10% to correct for pipette errors.
+When assembling the master mix, it is also important to increase the volume of each reagent by ~10% to account for pipette errors.
 
 To know which primer set best suits your project, check the primer section below.
 
 Keep in mind that all the reagents are very expensive, and if you are working on a microbiome project it is very easy to contaminate these reagents (microbes are everywhere). So put extra care when you handle these reagents, and always use filtered tips when you handle them, especially if you share pipettes with other users or if you perform multiple procedures with the same pipettes.
 
-When you are ready, you can assemble the mastermix using this table as example. Remember to change the amount of reagent per sample if you are scaling up or scaling down you reaction volume, and the amount of samples if it is different. Also, keep a look at the total final volume, and make sure to not exceed 1000µl per tube . A higher amount would make the mixing process difficult. You can always prepare multiple tubes for the same run.
+When you are ready, you can assemble the master mix using the table below (example for 24 samples). Remember to change the amount of reagent per sample if you are scaling up or scaling down you reaction volume, and the amount of samples if it is different. Also, keep a look at the total final volume, and make sure to not exceed 1000µl per tube . A higher amount would make the mixing process difficult. You can always prepare multiple tubes for the same run.
 
-| Reagent          | Amount per sample (µl) | Nr. of samples | Adjustement | Final Volume (µl) |
-| ---------------- | :--------------------: | :------------: | :---------: | :---------------: |
-| Water            |          7.8           |       24       |    x1.1     |       205.9       |
-| FW primer        |          0.6           |       24       |    x1.1     |       15.84       |
-| REV primer       |          0.6           |       24       |    x1.1     |       15.84       |
-| Reagent mix (2X) |           10           |       24       |    x1.1     |        264        |
-|                  |           19           |                |             |      501.58       |
+| Reagent          | Amount per sample (µl) | Nr. of samples | Adjustement |        Final Volume (µl)        |
+| ---------------- | :--------------------: | :------------: | :---------: | :-----------------------------: |
+| Water            |          7.8           |      x 24      |    x1.1     |              205.9              |
+| FW primer        |          0.6           |      x 24      |    x1.1     |              15.84              |
+| REV primer       |          0.6           |      x 24      |    x1.1     |              15.84              |
+| Reagent mix (2X) |           10           |      x 24      |    x1.1     |               264               |
+|                  |  **19µl** per sample   |                |             | **501.58µl** of total mastermix |
 
-After assembling the master mix, mix it well with a vortex (medium speed) and spin it down with a centrifuge (few seconds).
+After assembling the master mix, vortex (medium speed) and spin it down with a centrifuge (few seconds).
 
 Using a filtered tip, dispense the amount of mix per sample (19µl in the example).
 

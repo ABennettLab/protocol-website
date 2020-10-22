@@ -27,9 +27,9 @@ Before extracting the DNA, we have to homogenize our sample in a lysis buffer. T
 
 # Protocol
 
-1. Weight about 50mg of your sample.
+1. Transfer about 50mg of your sample to a 2ml tube.
 2. Add 3-5 stainless steel beads.
-3. Add 500µl of Lysis buffer.
+3. Add 300µl of Lysis buffer.
 4. Load samples into the Qiagen TissueLyzer homogenizer. Remember to balance the two arms of the homogenizer. Watch the video below before running the machine.
 5. Mill at max frequency (30) for 5 minutes.
 6. Invert the plates (see video below) and mill again at max frequency (30) for 5 minutes.
