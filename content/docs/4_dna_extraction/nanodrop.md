@@ -18,7 +18,7 @@ Then, have a look at the video below to learn how to use different versions of N
 
 ### Nanodrop One
 
-
+{{< youtube kXTpMX-FPgQ >}}
 
 ### Nanodrop 2000
 
