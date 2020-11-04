@@ -50,3 +50,6 @@ Before measuring samples, samples need to be prepared according to the following
 | Qubit dsDNA HS Assay Kit | ThermoFisher | Q32854   |
 | Qubit  Assay Tubes       | ThermoFisher | Q32856   |
 
+<br/>
+
+**A video will appear here soon**

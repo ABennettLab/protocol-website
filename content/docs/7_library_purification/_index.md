@@ -48,3 +48,7 @@ type: book  # Do not modify.
 17. Incubate at room temperature for 5 minutes.
 18. Put tubes/plate on magnet for 3 minutes.
 19. Pipette 35µl from the tubes, and put it into a new tube.
+
+<br/>
+
+**A video will appear here soon**

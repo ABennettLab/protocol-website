@@ -85,10 +85,15 @@ Before beginning:
 
 22. Store your samples at -20°C before further analyses. You can also measure DNA concentration before storing your sample.
 
-      
+  ​    
 
 [^1]: If during QC you notice that samples are not clean enough, you might consider to extend this step to 30 minutes
 [^2]: If you experience low yields you might consider to extend this incubation time from 1 hour up to overnight. If you have salt co-precipitation issues, you can incubate your samples on ice instead that -20°C.
 [^3]: Ethanol 70% is hygroscopic. Consider preparing it fresh for each extraction.
 [^4]:  If your DNA yield is low, consider to reduce this amount to 50µl. If you have troubles in dissolving your DNA pellett, try to incubate it at 60°C for 5 minutes.
 
+
+
+<br/>
+
+{{< youtube zixpAYn62XA >}}

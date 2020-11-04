@@ -40,6 +40,10 @@ For accurate instruction on how to load the chip, please consult the {{% staticr
 
 For accurate instruction on how to run the Agilent 2100 Bioanalyzer instrument, please consult pp- 17.23 of the {{% staticref "files/ABA_HS_full.pdf" "newtab" %}}full guide{{% /staticref %}}, and watch the video below.
 
+<br/>
+
+**A video will appear here soon**
+
 ### Qubit
 
 You will need to provide a Qubit reading of the final pool to the sequencing facility. See Library pooling section above for instructions on how to do it.

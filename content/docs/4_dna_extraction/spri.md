@@ -44,3 +44,7 @@ For a different numbers of samples, you can use single PCR tubes, 8-tubes strips
 18. Incubate at room temperature for 5 minutes.
 19. Put tubes/plate on magnet for 3 minutes.
 20. Pipette 35µl from the tubes, and put it into a new tube.
+
+<br/>
+
+**A video will appear here soon**

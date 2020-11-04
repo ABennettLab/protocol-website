@@ -67,5 +67,6 @@ Samples are now ready for the thermocycler. Follow the video instructions below 
 * 72°C for 5 minutes
 * Hold at 4°C
 
+<br/>
 
-
+{{< youtube xSWHFwinwdM >}}
