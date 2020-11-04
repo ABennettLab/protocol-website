@@ -19,7 +19,7 @@ This is the general workflow for a matabarcoding project:
 3. Using PCR we enrich our samples for the target locus. For bacteria we usually target a portion of the 16S rRNA, for fungi we target a portion of the ITS rRNA.
 4. Check for correct amplification using gel electrophoresis.
 5. Purify amplicons from PCR reagents.
-6. Use a second-round PCR to ligate sequencing adaptors and barcodes to the amplicons.
+6. Perform another PCR to ligate sequencing adaptors and barcodes to the amplicons.
 7. Purify amplicons from PCR reagents.
 8. Quantify the concentration of amplicons for each sample, and pool all samples at equimolar ratio.
 9. Perform extra QC and final dilution.

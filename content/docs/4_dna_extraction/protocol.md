@@ -53,7 +53,7 @@ Before beginning:
 
 6. Keep samples under the fume hood for 5 minutes.
 
-7. Centrifuge at 10,000 rcf for 15 minutes at 4°C.[^1]
+7. Centrifuge at max speed for 15 minutes at 4°C.[^1]
 
 8. After centrifugation you'll notice that the mix inside the tube divided into three layers. The bottom layer contains all the organic solvents, proteins and stuff we do not want. The thin layer in the middle is full of proteins, and we do not want it as well. The top layer is the one with DNA, and this is the one we're going to extract and transfer it into a new clean tube. Usually this layer is about 20-40% of the total volume, so set the pipette at 300µl, and collect most of the top layer into a clean vial. Remember: it is better to leave a bit of DNA behind than carrying proteins or solvents into the next steps. So, if you do not collect all the top layer it is fine. Discard the old vial.
 
@@ -73,13 +73,13 @@ Before beginning:
 
 16. Mix gently by inverting the tube 5-10 times.
 
-17. Centrifuge at 10,000 rcf for 15 minutes at 4°C.
+17. Centrifuge at max speed for 15 minutes at 4°C.
 
 18. Discard the supernatant by inverting the tubes inside a glass beaker.
 
 19. Repeat steps 15-18 another time (total of 2 washes)
 
-20. It is important that we remove all the ethanol. So, open all the vials, cover them with paper towel and leave the rack under the fume hood for 20-30 minutes. You can also leave them overnight. If you have access to a concentrator (e.g. Eppendorf Vacufuge), this will help to speed up the process.
+20. It is important that we remove all the ethanol. So, open all the vials, cover them with paper towel and leave the rack under the fume hood for about 1 hour. You can also leave them overnight. If you have access to a concentrator (e.g. Eppendorf Vacufuge), this will help to speed up the process.
 
 21. Add 100µl of ultrapure water to your sample to dissolve the DNA pellet by vortexing.[^4]
 
@@ -93,7 +93,5 @@ Before beginning:
 [^4]:  If your DNA yield is low, consider to reduce this amount to 50µl. If you have troubles in dissolving your DNA pellett, try to incubate it at 60°C for 5 minutes.
 
 
-
-<br/>
 
 {{< youtube zixpAYn62XA >}}

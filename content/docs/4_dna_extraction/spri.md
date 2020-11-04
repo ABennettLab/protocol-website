@@ -8,19 +8,19 @@ date: ""
 weight: 3
 ---
 
-If you Nanodrop reads are not excellent, you can try to further purify your samples with the protocol below.
+If your Nanodrop reads are not excellent, you can try to further purify your samples with the protocol below.
 
 # Materials
 
-| Reagents                                  | Producer            | Cat. no.     |
-| ----------------------------------------- | ------------------- | ------------ |
-| Ethanol (70%)                             |                     |              |
-| SPRI beads solution                       | see recipe          |              |
+| Reagents            | Producer   | Cat. no. |
+| ------------------- | ---------- | -------- |
+| Ethanol (70%)[^1]   |            |          |
+| SPRI beads solution | see recipe |          |
 
 # Protocol
 {{% alert note%}}
 This protocol can be adapted for different volumes and samples numbers. </br>
-For higer volumes simply scale up all the reagents volumes reported below, and use 1.5 or 2ml tubes. </br>
+For higer volumes simply scale up all the reagents volumes reported below,  use 1.5 or 2ml tubes and use the magnetic rack for tubes instead the one for plates. </br>
 For a different numbers of samples, you can use single PCR tubes, 8-tubes strips, plate sections or entire plates. They will all fit into the magnet.
 {{% /alert %}}
 
@@ -30,21 +30,23 @@ For a different numbers of samples, you can use single PCR tubes, 8-tubes strips
 4. Incubate at room temperature for 5 minutes.
 5. Put tubes/plate on magnet for 3 minutes.
 6. While on magnet, pipette all the content of the tube (do not touch the beads that are now collected on the side of the tube) and discard it.
-7. Keeping the tubes/plate on the magnet, add 200µl of 70% Ethanol
+7. Keeping the tubes/plate on the magnet, add 100µl of 70% Ethanol 
 8. Incubate at room temperature for 1 minute.
 9. While on magnet, pipette all the content of the tube (do not touch the beads that are now collected on the side of the tube) and discard it.
-10. Keeping the tubes/plate on the magnet, add 200µl of 70% Ethanol
+10. Keeping the tubes/plate on the magnet, add 100µl of 70% Ethanol
 11. Incubate at room temperature for 1 minute.
 12. While on magnet, pipette all the content of the tube (do not touch the beads that are now collected on the side of the tube) and discard it.
 13. Incubate at room temperature for 3 minutes.
-14. Add 40µl of ultrapure water.
+14. Add 55µl of ultrapure water.
 15. Close the tubes/plate with lids or foil.
 16. Vortex the tubes/plate for 20-30 seconds.
 17. Briefly centrifuge the tubes/plate (2-3 seconds).
 18. Incubate at room temperature for 5 minutes.
 19. Put tubes/plate on magnet for 3 minutes.
-20. Pipette 35µl from the tubes, and put it into a new tube.
+20. Pipette 50µl into a new tube.
 
 <br/>
 
 **A video will appear here soon**
+
+[^1]: Ethanol 70% is hygroscopic. Consider preparing it fresh for each extraction.

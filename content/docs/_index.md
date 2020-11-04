@@ -15,6 +15,6 @@ Antonino Malacrinò, 2020
 
 {{< icon name="envelope" pack="fas" >}} antonino [dot] malacrino [at] gmail [dot] com
 
-{{< icon name="twitter" pack="fas" >}} [@antonino_mal](https://twitter.com/antonino_mal)
+{{< icon name="twitter" pack="fab" >}} [@antonino_mal](https://twitter.com/antonino_mal)
 
-{{< icon name="mouse-pointer" pack="fas" >}} [Personal website](amalacrino.netlify.app/)
+{{< icon name="mouse-pointer" pack="fas" >}} [Personal website](https://amalacrino.netlify.app/)

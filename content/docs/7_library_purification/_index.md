@@ -34,10 +34,10 @@ type: book  # Do not modify.
 3. Incubate at room temperature for 5 minutes.
 4. Put tubes/plate on magnet for 3 minutes.
 5. While on magnet, pipette all the content of the tube (do not touch the beads that are now collected on the side of the tube) and discard it.
-6. Keeping the tubes/plate on the magnet, add 200µl of 70% Ethanol
+6. Keeping the tubes/plate on the magnet, add 100µl of 70% Ethanol
 7. Incubate at room temperature for 1 minute.
 8. While on magnet, pipette all the content of the tube (do not touch the beads that are now collected on the side of the tube) and discard it.
-9. Keeping the tubes/plate on the magnet, add 200µl of 70% Ethanol
+9. Keeping the tubes/plate on the magnet, add 100µl of 70% Ethanol
 10. Incubate at room temperature for 1 minute.
 11. While on magnet, pipette all the content of the tube (do not touch the beads that are now collected on the side of the tube) and discard it.
 12. Incubate at room temperature for 3 minutes.

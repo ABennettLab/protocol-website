@@ -12,7 +12,7 @@ date: ""
 type: book  # Do not modify.
 ---
 
-Before extracting the DNA, we have to homogenize our sample in a lysis buffer. The mechanical and chemical actions will help cellular lysis and the release of DNA into the solution. In this way, we can the isolate DNA from the other parts of our sample, and purify it for downstream processing.
+Before extracting the DNA, we have to homogenize our sample in a lysis buffer. The mechanical and chemical actions will help cellular lysis and the release of DNA into the solution. In this way, we can isolate the DNA from the other parts of our sample, and purify it for downstream processing.
 
 <br/>
 
