@@ -16,7 +16,7 @@ type: book  # Do not modify.
 
 | Reagents            | Producer                   | Cat. no. |
 | ------------------- | -------------------------- | -------- |
-| Ethanol (70%)       |                            |          |
+| Ethanol (70%) [^1]  |                            |          |
 | SPRI beads solution | see DNA extraction section |          |
 
 | Consumables        | Producer | Cat. no.  |
@@ -52,3 +52,5 @@ type: book  # Do not modify.
 <br/>
 
 **A video will appear here soon**
+
+[^1]: Ethanol 70% is hygroscopic. Consider preparing it fresh for each extraction
