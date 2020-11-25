@@ -13,6 +13,7 @@ weight: 2
 Tips
 
 * Before beginning thaw all the reagents and keep them on ice
+* Remember to dilute the primers to a working solution (see Recipes section). I suggest to make small aliquots (e.g. 50-100µl) so after you use them 2-3 times you can discard them to avoid contaminations.
 * Also, clean your working station thorougly with 70% ethanol or 5% bleach
 
 * Use **filter tips** when working with reagents or dispensing the master mix
