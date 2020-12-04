@@ -47,6 +47,6 @@ For a different numbers of samples, you can use single PCR tubes, 8-tubes strips
 
 <br/>
 
-**A video will appear here soon**
+{{< youtube 29UkA2_Yvos >}}
 
 [^1]: Ethanol 70% is hygroscopic. Consider preparing it fresh for each extraction.
