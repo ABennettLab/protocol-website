@@ -42,7 +42,7 @@ For accurate instruction on how to run the Agilent 2100 Bioanalyzer instrument, 
 
 <br/>
 
-**A video will appear here soon**
+{{< youtube jTfSCa_6DHo >}}
 
 ### Qubit
 
