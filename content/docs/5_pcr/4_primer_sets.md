@@ -17,7 +17,7 @@ This is pretty straightforward. You will need just two primers that you can use 
 | Target                             |                       FW (5'-3')                        |                      REV (5'-3')                       |
 | ---------------------------------- | :-----------------------------------------------------: | :----------------------------------------------------: |
 | 16S (e.g. bacteria). **515F-806R** |  TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGGTGYCAGCMGCCGCGGTAA   | GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGGGACTACNVGGGTWTCTAAT |
-| ITS2 (e.g. fungi). **ITS1f-ITS2**  | TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGCTTGGTCATTTAGAGGAAGTAA | GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGGCTGCGTTCTTCATCGATGC |
+| ITS1 (e.g. fungi). **ITS1f-ITS2**  | TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGCTTGGTCATTTAGAGGAAGTAA | GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGGCTGCGTTCTTCATCGATGC |
 
 There are many other primer pairs that target other loci. Consult the literature to choose correctly the primer pair according to your target. Do not forget to add the overhang sequence at the 5' end of your locus-specific primer, otherwise the second PCR run will not work. Here is an example:
 
